@@ -1,4 +1,4 @@
-// A 2D/3D collision grid. MIT licensed
+// A 2D/3D collision grid. BOOST licensed
 // - rlyeh, 2012-2013
 
 #pragma once

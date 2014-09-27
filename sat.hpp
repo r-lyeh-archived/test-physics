@@ -1,4 +1,4 @@
-// A 2D/3D separate axis theorem class. MIT licensed
+// A 2D/3D separate axis theorem class. BOOST licensed
 // - rlyeh, 2012-2013
 
 #pragma once
