@@ -1,4 +1,4 @@
-// A 2D/3D separate axis theorem class. BOOST licensed
+// A 2D/3D separate axis theorem class. zlib/libpng licensed
 // - rlyeh, 2012-2013
 
 #pragma once
